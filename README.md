@@ -3,7 +3,7 @@
 TG记账机器人
 
 - ![1.jpg](readme1/photo_2024-11-26_22-43-45.jpg) 
-- ![1.jpg](readme1/photo_2024-11-26_22-43-45 (2).jpg)
+- ![1.jpg]((readme1/11.jpg))
 
 
 
