@@ -1,7 +1,8 @@
 # countingbot
 
 TG记账机器人
-![示例图片](photo_2024-11-26_22-43-45 (2).jpg)
+
+![示例图片]([photo_2024-11-26_22-43-45 (2).jpg](https://github.com/222h/countingbot/blob/main/photo_2024-11-26_22-43-45%20(2).jpg))
 
 
 
